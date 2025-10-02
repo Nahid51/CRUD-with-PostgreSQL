@@ -46,13 +46,14 @@ routes/
 - [PostgreSQL Documentation](https://www.postgresql.org/docs/)
 - [NeonDB Documentation](https://neon.tech/docs)
 - [Project GitHub Repository](https://github.com/Nahid51/CRUD-with-PostgreSQL)
+- [Project Products](https://crud-with-postgre-sql.vercel.app/products)
 
 ### API Endpoints
 | Method | Endpoint           | Description                |
 |--------|--------------------|----------------------------|
 | GET    | /products          | Get all products           |
 | GET    | /products/:id      | Get product by ID          |
-| POST   | /products          | Create a new product       |
+| POST   | /products/create   | Create a new product       |
 | PUT    | /products/:id      | Update a product by ID     |
 | DELETE | /products/:id      | Delete a product by ID     |
 
